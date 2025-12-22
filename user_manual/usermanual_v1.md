@@ -1,5 +1,5 @@
 ---
-layout: front
+layout: page
 ---
 
 # Project Name: Digital Twin for Air Mobility [Operational Digital Twin]
@@ -50,8 +50,8 @@ This project was developed and is maintained by the following core members. Only
 
 | Profile | Name | Primary Role | Contact |
 | :--- | :--- | :--- | :--- |
-| <img src="https://github.com/your-username.png" width="80px;"> | **AYE AYE MAW, PhD** | Project Lead / Cloud Architect | [GitHub](https://github.com/miayemaw) |
-| <img src="https://github.com/member2-username.png" width="80px;"> | **이각영, PhD** | FrontEnd Developer | [GitHub](https://github.com/lijueying1108) |
+| <img src="https://github.com/your-username.png" width="80px;"> | **AYE AYE MAW, PhD** | Project Lead / DEvOps Engineer | [GitHub](https://github.com/miayemaw) |
+| <img src="https://github.com/member2-username.png" width="80px;"> | **이각영, PhD** | FrontEnd Developer / Cloud Architect| [GitHub](https://github.com/lijueying1108) |
 | <img src="https://github.com/member3-username.png" width="80px;"> | **NAN LAO YWET, PhD** | DevOps Engineer | [GitHub](https://github.com/laoywet14) |
 
 > **Note:** For security and credit integrity, only the members listed above are responsible for the current deployment logic.
